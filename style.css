@@ -1,0 +1,76 @@
+img{
+    position: absolute;
+    left: 300px;
+    top: 0 px;
+   
+    z-index: 3;
+}
+h1{
+    position: relative;
+    z-index: 4;
+}
+div{
+   
+    position: absolute;
+    height: 200px;
+    width: 200px;
+    right:0px;
+}
+.box1{
+
+    background-color: red;
+left:0px;
+top:0px;
+z-index: 4;
+}
+.box2{
+
+background-color: green;
+left:100px;
+top:100px;
+z-index: 2;
+}
+.box3{
+    background-color: blanchedalmond;
+    left: 150px;
+    top:150px;
+z-index: 1;
+
+}
+.overflow{
+    height:200px;
+    width: 200px;
+    border: 2px solid red;
+    overflow: scroll;
+}
+
+h2{
+    position: relative;
+    top:240px;
+    border: 2px solid ghostwhite;
+}
+.box4{
+float: left;
+width: 80%;;
+    background-color: red;
+
+}
+.box5{
+float: left;
+width: 33%;
+background-color: green;
+
+}
+.box6{
+    background-color: blanchedalmond;
+
+
+}
+
+
+
+
+
+
+
+
